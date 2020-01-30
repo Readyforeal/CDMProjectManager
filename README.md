@@ -1,6 +1,6 @@
 ## CDM Operations Manager
 
-This is an operations manager for the contracting company Contractors Door and Millwork, based in Phoenix, AZ. This application handles scheduling, issue reporting, and overall progress tracking of any and all construction projects in the valley.
+This is an operations manager for the contracting company Contractors Door and Millwork, based in Phoenix, AZ. This application handles scheduling, issue reporting, and will handle overall progress tracking of any and all construction projects in the valley.
 
 ## Screenshots
 
